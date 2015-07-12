@@ -13,7 +13,7 @@
 ---
 
 ### Theme List
-1.这里集结了好多非常棒的主题，<http://jekyllthemes.org/>
+1.这里集结了好多非常棒的主题，可惜更新不够及时<http://jekyllthemes.org/>
 
 2.<http://triffic.cn/>
 
